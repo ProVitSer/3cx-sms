@@ -1,0 +1,32 @@
+{
+    "name": "3cx-sms",
+    "version": "1.0.0",
+    "description": "Sending an SMS message to a subscriber who has not phoned you. For IP PBX 3CX Phone System 14,15.5,16",
+    "main": "app.js",
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "log4js": "^4.0.2",
+        "request": "^2.88.0",
+        "tail": "^2.0.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "ProVitSer",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ProVitSer/3cx-sms.git"
+    },
+    "keywords": [
+        "voip",
+        "3cxPhoneSystem",
+        "sms",
+        "3cx"
+    ],
+    "bugs": {
+        "url": "https://github.com/ProVitSer/3cx-sms/issues"
+    },
+    "homepage": "https://github.com/ProVitSer/3cx-sms#readme"
+}
